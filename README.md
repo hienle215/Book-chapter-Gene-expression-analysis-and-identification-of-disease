@@ -1,0 +1,2 @@
+# Book-chapter-Gene-expression-analysis-and-identification-of-disease
+Gene expression is a process that deciphers the information encoded in the genome for production and functional design. The measurement of the expression of gene in a cell/cells could present the information for gene expression profiling and detecting the disease related to the gene expression. In here, we will focus on gene expression profiling from Bioconductor, bulk RNA seq, and single cell analysis. Then we will show the concept for data analysis from Linux and R environment.
